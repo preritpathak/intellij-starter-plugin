@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.preritpathak.intellijstarterplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.preritpathak.intellijstarterplugin.MyBundle
 
 class MyApplicationService {
 
